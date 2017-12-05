@@ -1,0 +1,7 @@
+{
+  "friends": [ 
+  {"id": 1, "name": "hemanth", "age":21},
+  {"id": 1, "name": "uday", "age":21},
+  {"id": 1, "name": "harish", "age":21}
+  ]
+}
